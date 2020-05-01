@@ -3,3 +3,4 @@ gitの練習をしていきます
 失敗したのでもう一度
 @git add
 @git commit
+＠@git rm
